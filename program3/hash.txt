@@ -1,0 +1,8 @@
+keyword:description:113:12:yes
+meme:description:778:11:no
+linear linked lists:Easiest linear data structure:881:5:no
+arrays:Direct access but they have memory issues:18:1:no
+circular linked lists:You can break these to form LLL:432:15:yes
+doubly linked lists:These have a lot of overhead:234:7:no
+trees:These things are good with recursion:1000:20:no
+hash tables:I'm working on this right now!:987:19:yes

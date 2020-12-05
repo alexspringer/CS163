@@ -1,0 +1,4 @@
+LLL:These are easy, its a thing:2:45:n
+DLL:These have a next and previous pointer:7:121:n
+Trees:Boy I have no idea what these are!:18:777:y
+arrays:This is one of the first things I learned:1:15:n
